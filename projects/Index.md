@@ -1,3 +1,11 @@
-# Projects
+---
+title: Projects
+---
 
-Long-term or ongoing writing projects.
+<ul>
+{% for item in site.projects %}
+  <li>
+    <a href="{{ item.url }}">{{ item.title }}</a>
+  </li>
+{% endfor %}
+</ul>
