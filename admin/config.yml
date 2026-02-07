@@ -2,7 +2,7 @@ backend:
   name: github
   repo: anshuman3kdka/anshuman3kdka.github.io
   branch: main
-  client_id: YOUR_CLIENT_ID
+  client_id: Ov23li6QdMcxjp1u3cBw
 
 publish_mode: simple
 
