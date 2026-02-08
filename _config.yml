@@ -4,11 +4,13 @@ defaults:
     values:
       layout: default
 collections:
-  poetry:
+  _poetry:
     output: true
-  prose:
+  _prose:
     output: true
-  essays:
+  _essays:
     output: true
-  projects:
+  _projects:
+    output: true
+  _achievements:
     output: true
