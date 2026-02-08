@@ -4,6 +4,8 @@ content:
     path: poetry
     type: collection
     filename: "{slug}.md"
+    exclude:
+      - index.md
     fields:
       - name: title
         label: Title
@@ -17,6 +19,8 @@ content:
     path: prose
     type: collection
     filename: "{slug}.md"
+    exclude:
+      - index.md
     fields:
       - name: title
         label: Title
@@ -30,6 +34,8 @@ content:
     path: essays
     type: collection
     filename: "{slug}.md"
+    exclude:
+      - index.md
     fields:
       - name: title
         label: Title
@@ -43,6 +49,8 @@ content:
     path: projects
     type: collection
     filename: "{slug}.md"
+    exclude:
+      - index.md
     fields:
       - name: title
         label: Project Title
@@ -56,6 +64,8 @@ content:
     path: achievements
     type: collection
     filename: "{slug}.md"
+    exclude:
+      - index.md
     fields:
       - name: title
         label: Achievement
