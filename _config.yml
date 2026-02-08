@@ -3,14 +3,3 @@ defaults:
       path: ""
     values:
       layout: default
-collections:
-  _poetry:
-    output: true
-  _prose:
-    output: true
-  _essays:
-    output: true
-  _projects:
-    output: true
-  _achievements:
-    output: true
