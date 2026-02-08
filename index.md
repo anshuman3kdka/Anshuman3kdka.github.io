@@ -9,9 +9,9 @@ This is an archive of my writing.
 ## Sections
 
 - [About](/about/)
-- [Essays](/_essays/)
-- [Prose](/_prose/)
-- [Poetry](/_poetry/)
-- [Projects](/_projects/)
-- [Achievements](/_achievements/)
+- [_Essays](/_essays/)
+- [_Prose](/_prose/)
+- [_Poetry](/_poetry/)
+- [_Projects](/_projects/)
+- [_Achievements](/_achievements/)
 - [Contact](/contact/)
